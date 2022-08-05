@@ -12,8 +12,5 @@ GIT
 git init
 
 
-  git config --global user.email "xanderroque24@gmail.com"
-  git config --global user.name "XanderRoque"
-
-Test
-
+  git config --global user.email "{email here}"
+  git config --global user.name "{username here]"
