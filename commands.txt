@@ -14,3 +14,5 @@ git init
 
   git config --global user.email "{email here}"
   git config --global user.name "{username here]"
+
+Try to push 
