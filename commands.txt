@@ -5,15 +5,28 @@ mkdir = make directory
 pwd = print working directory
 ls = list down files
 ls -lth = list all files, one column, order by time, human readable ang size ng file
-ls -la =()
+ls -la =(Other way for ls -lth)
 ------
 GIT
 ------
-git init
+git init = Create new repository(Initialzed)
+git add . = all files
+git add name.md = specifice files
+then 
+git commit -m 'msg.,example. first commit' = to commit
+git branch -m name = to know where you put/push the file
+before that you need to create a file that associated into github.
+git remote add origin https://github.com/XanderRoque/FilesRepository.git =()
+git push -u origin name
+
+PUSh 
+you must commit first
+and check if its need to commit before push
+git push -u origin (name of branch)
+
 
 
   git config --global user.email "{email here}"
   git config --global user.name "{username here]"
 
-
-Clear to see
+Cleary
