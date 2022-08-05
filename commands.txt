@@ -19,7 +19,7 @@ before that you need to create a file that associated into github.
 git remote add origin https://github.com/XanderRoque/FilesRepository.git =()
 git push -u origin name
 
-PUSh 
+PUSH
 you must commit first
 and check if its need to commit before push
 git push -u origin (name of branch)
@@ -29,4 +29,4 @@ git push -u origin (name of branch)
   git config --global user.email "{email here}"
   git config --global user.name "{username here]"
 
-Cleary
+Done!
