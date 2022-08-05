@@ -1,0 +1,12 @@
+LINUX COMMANDS
+--------------
+cd = change directory
+mkdir = make directory
+pwd = print working directory
+ls = list down files
+ls -lth = list all files, one column, order by time, human readable ang size ng file
+ls -la =()
+------
+GIT
+------
+git init
