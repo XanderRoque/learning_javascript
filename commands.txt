@@ -10,3 +10,7 @@ ls -la =()
 GIT
 ------
 git init
+
+
+  git config --global user.email "xanderroque24@gmail.com"
+  git config --global user.name "XanderRoque"
